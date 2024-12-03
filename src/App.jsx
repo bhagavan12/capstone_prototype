@@ -646,7 +646,8 @@ function App() {
           <div className="flex items-center space-x-3">
             <ShieldCheck className="w-8 h-8 text-blue-500" />
             <h1 className="text-2xl font-bold text-gray-900 dark:text-white">
-              Secure Data Processor
+              AESC-Rotate 
+            <h1 style={{fontSize:"small"}}>Secure Data Processor</h1>
             </h1>
           </div>
           <button
